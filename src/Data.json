@@ -1,0 +1,20 @@
+{
+  "MAX_SLOTS": 25,
+  "PLAYER_ITEMS": [
+    { 
+      "slot": 5,
+      "title": "Sword",
+      "img": "sword.png"
+    },
+    {
+      "slot": 3,
+      "title": "Gun",
+      "img": "gun.png"
+    },
+    {
+      "slot": 1,
+      "title": "Cybepunk Mask",
+      "img": "cyberpunk-mask.png"
+    }
+  ]
+}
